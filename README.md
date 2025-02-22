@@ -1,1 +1,1 @@
-# https-github.com-Janviswa-Disease-outbreak-prediction-using-Machine-Learning
+Disease-outbreak-prediction
